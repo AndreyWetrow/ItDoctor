@@ -1,2 +1,5 @@
 https://github.com/AndreyWetrow/ItDoctor
-1. git config --list - покажет гловальную конфигурацию с алиасами
+1. git config --list - покажет глобальную конфигурацию с алиасами
+
+2. git remote add origin git@github.com:AndreyWetrow/ItDoctor.git
+   git push -u origin master (добавление файлов в новый репозиторий) 
