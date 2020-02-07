@@ -1,2 +1,2 @@
 https://github.com/AndreyWetrow/ItDoctor
-1. git config --list - покажет гловальную конфигурацию с алиасами
+1. git config --list - покажет глобальную конфигурацию с алиасами
